@@ -1,0 +1,14 @@
+.expense-item{
+ background-color: aquamarine;
+ color: black;
+}
+
+.expense-item_description{
+    background-color: rosybrown;
+    color: black;
+}
+
+.expense-item_price{
+    background-color: chocolate;
+    color: black;
+}
