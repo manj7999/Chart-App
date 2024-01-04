@@ -1,0 +1,17 @@
+/* Expenses.css */
+
+.expenses {
+    background-color: #f4f4f4; /* Light gray background color */
+    padding: 20px; /* Add some padding */
+  }
+  
+  .expenses h2 {
+    color: #333; /* Dark text color for headings */
+  }
+  
+  .expense-item {
+    margin-bottom: 10px; /* Add spacing between individual expense items */
+  }
+  
+  /* Add more styles as needed */
+  
